@@ -15,6 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to my personal website!
         </h1>
+      </main>
     </div>
   )
 }
